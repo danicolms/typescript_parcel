@@ -1,1 +1,1 @@
-# typescript-parcel
+# Parcel typescript boilerplate for React
